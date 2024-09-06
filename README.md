@@ -1,2 +1,2 @@
 # terraform-aws-pipeline-kms
-Terraform Workspace
+Terraform Module
